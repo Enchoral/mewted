@@ -2,7 +2,7 @@
     "KEY": "",
     "DEBUG": false,
     "AUTHENTICATION": {
-        "COOKIES": []
+        "COOKIES": ["cookie1", "cookie2"]
     },
     "BUY_DEBOUNCE": 1,
     "WATCHER": [],
@@ -11,6 +11,6 @@
     "DISCORD": {
         "ENABLE": false,
         "TOKEN": "",
-        "AUTHORIZED_IDS": []
+        "AUTHORIZED_IDS": ["123", "123"]
     }
 }
