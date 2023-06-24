@@ -1,0 +1,4 @@
+disnake
+rgbprint
+aiohttp
+python-socketio[client]

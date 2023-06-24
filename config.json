@@ -1,0 +1,16 @@
+{
+    "KEY": "",
+    "DEBUG": false,
+    "AUTHENTICATION": {
+        "COOKIES": []
+    },
+    "BUY_DEBOUNCE": 1,
+    "WATCHER": [],
+    "AUTOSEARCH": true,
+    "WEBHOOK": "",
+    "DISCORD": {
+        "ENABLE": false,
+        "TOKEN": "",
+        "AUTHORIZED_IDS": []
+    }
+}
